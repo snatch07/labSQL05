@@ -31,5 +31,4 @@ from products as p join Suppliers as s
 on p.SupplierID = s.SupplierID
 
 
-select companyName,OrderID
-from orders,shippers
+
